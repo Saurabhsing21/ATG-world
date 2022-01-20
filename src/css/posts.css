@@ -101,6 +101,7 @@
     position: fixed;
     bottom: 1rem;
     right: 1rem;
+    display: none;
 }
 
 
@@ -113,5 +114,8 @@
     }
     .solocard{
         max-width: 100%;
+    }
+    .edit{
+        display: block;
     }
 }
